@@ -6,6 +6,7 @@ public class SampleTest {
 @Test
 public void Sample() {
 	System.out.println("test 1 pass");
+	System.out.println("user 2 commit job 2");
 	
 }
 }
