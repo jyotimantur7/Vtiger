@@ -9,6 +9,8 @@ public void Read()
 	String URL = System.getProperty("url");
 	String BROWSER = System.getProperty("chrome");
 	System.out.println("chrome is launched");
+	System.out.println("url");
+	System.out.println("browser");
 }
 
 }
